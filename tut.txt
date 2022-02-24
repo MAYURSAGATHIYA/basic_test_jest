@@ -1,0 +1,7 @@
+install jest 
+in pkg.json
+-script ma"test":"jest"
+
+je file ne test karvi hoy ae file ne filename.test.js banao
+example: file to be test :index.js
+        make new file for testing it :index.test.js
